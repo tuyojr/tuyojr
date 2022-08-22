@@ -17,4 +17,11 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 
 ---
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" />  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuyojr&theme=tokyonight&layout=compact&hide_border=true" />
+<table>
+    <tr>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
+        <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" /></td>
+        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuyojr&theme=tokyonight&layout=compact&hide_border=true" /></td>
+    </tr>
+</table>
+     
