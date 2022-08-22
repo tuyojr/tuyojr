@@ -17,6 +17,42 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 
 ---
 
+## 👨‍💻 Languages and Tools
+
+<div align="center">
+  
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="40" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="40" width="50">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="50" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
+
+<br>
+
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/html.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/css.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="40" width="35">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/azure.png?raw=true" height="40" width="40">
+
+</div>
+
+---
+---
+
 <table>
     <tr>
         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
