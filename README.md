@@ -61,3 +61,5 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" /></div>
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
