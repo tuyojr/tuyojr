@@ -10,9 +10,9 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play attacking midfield 😎.
-- 🌱 I’m currently learning JavaScript, C#, and Unity.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer, Technical Writer, Game Designer (Intern or Junior level).
+- 🌱 I’m currently learning JavaScript and Bash Scripting.
+- 😊 I’m looking to contribute to open source projects. Also open to internships and entry-level opportunities.
+- 💼 Job interests: Cloud Engineer, Technical Writer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1gsfLYCss3UCzfz-Fr31rO_Fg2Ilhm3iG/view?usp=sharing) and contact me by emailing olutuyod@outlook.com.
 
 ---
