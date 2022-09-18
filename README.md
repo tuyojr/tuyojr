@@ -13,7 +13,7 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 - 🌱 I’m currently learning JavaScript, C#, and Unity.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Technical Writer, Game Designer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1ige8fJE3ekIpICmfVxgBwknKmFC4ImpI/view?usp=sharing) and contact me by emailing olutuyod@outlook.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1gsfLYCss3UCzfz-Fr31rO_Fg2Ilhm3iG/view?usp=sharing) and contact me by emailing olutuyod@outlook.com.
 
 ---
 
