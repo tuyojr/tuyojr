@@ -48,6 +48,7 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/azure.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="40" width="40">
 
 </div>
 
