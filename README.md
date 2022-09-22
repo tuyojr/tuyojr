@@ -9,7 +9,7 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play attacking midfield 😎.
+- 💡 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play attacking midfield 😎. I love video games a lot and working to create one soon.
 - 🌱 I’m currently learning JavaScript and Bash Scripting.
 - 😊 I’m looking to contribute to open source projects. Also open to internships and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Technical Writer (Intern or Junior level).
