@@ -13,7 +13,7 @@ I'm a Cloud Engineer, Technical Writer, and Game Designer who is currently a Stu
 - 🌱 I’m currently learning JavaScript and Bash Scripting.
 - 😊 I’m looking to contribute to open source projects. Also open to internships and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer, Technical Writer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lmu9M6Y0tDJg8UpjAmm-8aarjQvB0XIF/view?usp=sharing) and contact me by emailing olutuyod@outlook.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1smh83ZmzLrNstM2ALAN2hM34EuaDdpMi/view?usp=sharing) and contact me by emailing olutuyod@outlook.com.
 
 ---
 
