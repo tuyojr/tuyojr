@@ -1,7 +1,7 @@
 <table align="center">
     <tr>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-        <td>------------------<img src="https://github.com/tuyojr/tuyojr/blob/main/images/clanLogo.webp?raw=true" height="40" width="40">------------------</td>
+        <td>---------------------------<img src="https://github.com/tuyojr/tuyojr/blob/main/images/clanLogo.webp?raw=true" height="40" width="40">---------------------------</td>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
     </tr>
 </table>
