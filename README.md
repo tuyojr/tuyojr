@@ -1,10 +1,4 @@
-<table align="center">
-    <tr>
-        <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-        <td>--------------------------------------<img src="https://github.com/tuyojr/tuyojr/blob/main/images/clanLogo.webp?raw=true" height="40" width="40">--------------------------------------</td>
-        <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-    </tr>
-</table>
+<div align="center"> <img src="https://github.com/tuyojr/tuyojr/blob/main/images/clanLogo.webp?raw=true" height="40" width="40"> </div>
 
 [![](./images/header.jpg)](#)
 
@@ -78,3 +72,11 @@ I'm a Cloud Engineer currently studynig at AltSchool Africa [School of Software 
 <img src="https://komarev.com/ghpvc/?username=tuyojr&label=Profile%20Views&color=0e75b6&style=flat" alt="tuyojr" /> & [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
 
 ![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
+
+<table align="center">
+    <tr>
+        <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
+        <td>---------------------------------------------------------------------------------------------------------------------------</td>
+        <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
+    </tr>
+</table>
