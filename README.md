@@ -24,34 +24,31 @@ I'm a Cloud Engineer currently studynig at AltSchool Africa [School of Software 
 
 <div align="center">
   
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="40" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="40" width="50">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="50" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
 
 <br>
 
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/html.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/css.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="40" width="50">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="50" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="40" width="35">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/azure.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
 
 
 </div>
@@ -69,14 +66,14 @@ I'm a Cloud Engineer currently studynig at AltSchool Africa [School of Software 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=tuyojr&label=Profile%20Views&color=0e75b6&style=flat" alt="tuyojr" /> & [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
+<img src="https://komarev.com/ghpvc/?username=tuyojr&label=You're%20Visitor&color=0e75b6&style=flat" alt="tuyojr" /> & [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
 
 ![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
 <table align="center">
     <tr>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-        <td>----------------------------------------------------------------------------------------------------------------</td>
+        <td>----------------------------------------------------------------------------------------------</td>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
     </tr>
 </table>
