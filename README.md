@@ -46,6 +46,7 @@ I'm a Cloud Engineer currently studynig at AltSchool Africa [School of Software 
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="40" width="35">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/mysql.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
