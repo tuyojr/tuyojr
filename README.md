@@ -13,7 +13,7 @@ I'm a Cloud Engineer currently studynig at AltSchool Africa [School of Software 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play attacking midfield 😎. I love video games a lot and I'll be working to create one soon. 
 - 💡 Another Fun fact: Shisui Uchiha is my brother.
-- 🌱 I’m currently learning JavaScript, Shell Scripting, and Cloud technologies.
+- 🌱 I’m currently learning Python, Shell Scripting, and Cloud technologies.
 - 😊 I’m looking to contribute to open source projects, and I'm also open to internships and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
