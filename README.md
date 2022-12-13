@@ -9,8 +9,8 @@
 I'm a Cloud Engineer currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. I'm passionate about providing invaluable cloud solutions where needed, connecting with others to build amazing projects, and working on open source projects.
 
 - 🥷🏽 He/him
-- ⚽ Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play central attacking midfield ⚽🏃🏽‍♂️. I love video games 🎮 A LOT and I'll be working to create one soon. 
-- 👬🏾 Another Fun fact: Shisui Uchiha is one of my brothers, Thomas Shelby is my uncle.
+- 🤪 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play central attacking midfield 🪄 ⚽🏃🏽‍♂️. I love video games 🎮 A LOT and I'll be working to create one soon. 
+- 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, Thomas Shelby is my uncle.
 - 📚 I’m currently learning Python, and Cloud technologies. Will pick up C# and Unity soon.
 - 🤝🏽 I’m looking to contribute to open source projects.
 - 💼 Interested in Site Reliability Engineer roles (Intern or Junior(entry) level).
