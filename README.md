@@ -67,6 +67,7 @@ I'm a Cloud Engineer currently studying at AltSchool Africa [School of Software 
 
 <img src="https://komarev.com/ghpvc/?username=tuyojr&label=You're%20Visitor&color=0e75b6&style=flat" alt="tuyojr" /> & [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
 
+![](https://www.codewars.com/users/tuyojr/badges/large)
 ![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
 <table align="center">
