@@ -71,6 +71,8 @@ I'm a Cloud Engineer currently studying at AltSchool Africa [School of Software 
 
 ![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
 
+![Visitor Count](https://profile-counter.glitch.me/tuyojr/count.svg)
+
 <table align="center">
     <tr>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
