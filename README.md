@@ -28,6 +28,7 @@ I'm a Cloud Engineer currently studying at AltSchool Africa [School of Software 
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="40" width="40">
+<img src="https://pngset.com/images/terraform-icon-label-text-solar-panels-electrical-device-transparent-png-818950.png" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
