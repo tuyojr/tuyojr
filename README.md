@@ -13,7 +13,7 @@ I'm a Cloud Engineer currently studying at AltSchool Africa [School of Software 
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, Thomas Shelby is my uncle.
 - 📚 I’m currently learning Terraform, Docker, K8s for cloud and also Unity and C# for gaming.
 - 🤝🏽 I’m looking to contribute to open source projects.
-- 💼 Interested in Cloud Developer/S.R.E./Game Design roles (Intern or Junior(entry) level).
+- 💼 Interested in Cloud Developer/Cloud DevOps Engineer/S.R.E./Game Design roles (Intern or Junior(entry) level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![](https://www.codewars.com/users/tuyojr/badges/large)
