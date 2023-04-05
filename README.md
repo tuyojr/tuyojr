@@ -11,7 +11,7 @@ I'm a Cloud Engineer rounding up my studies at AltSchool Africa [School of Softw
 - 🥷🏽 He/Him
 - 🤪 Fun fact: I'm currently an amateur football palyer at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play central attacking midfield 🪄 ⚽🏃🏽‍♂️. I love video games 🎮 A LOT and I'll be working to create one soon. 
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, Thomas Shelby is my uncle.
-- 📚 I’m currently learning K8s, Prometheus, and Grafana for cloud and also loking to learn Unity and C# for gaming.
+- 📚 I’m currently learning K8s, Prometheus, and Grafana for cloud and also looking to learn Unity and C# for gaming.
 - 🤝🏽 I’m looking to contribute to open source projects.
 - 💼 Interested in Cloud Developer/Cloud DevOps Engineer/Game Design roles (Intern or Junior(entry) level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
