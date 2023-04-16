@@ -24,33 +24,32 @@ I'm a Cloud Engineer rounding up my studies at AltSchool Africa [School of Softw
 
 <div align="center">
   
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/yml.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="40" width="40">
-<img src="https://pngset.com/images/terraform-icon-label-text-solar-panels-electrical-device-transparent-png-818950.png" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gitbash.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="40" width="50">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="60" width="60">
+<img src="https://pngset.com/images/terraform-icon-label-text-solar-panels-electrical-device-transparent-png-818950.png" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/jenkins.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="60" width="60">
 
 <br>
 
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="40" width="50">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="50" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="40" width="35">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/mysql.png?raw=true" height="40" width="40">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="40" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="55" width="55">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="40" width="40">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/mysql.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="60" width="60">
 
 
 </div>
