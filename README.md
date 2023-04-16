@@ -30,7 +30,7 @@ I'm a Cloud Engineer rounding up my studies at AltSchool Africa [School of Softw
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="60" width="60">
 <img src="https://pngset.com/images/terraform-icon-label-text-solar-panels-electrical-device-transparent-png-818950.png" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.webp?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/jenkins.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="60" width="60">
