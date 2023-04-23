@@ -24,7 +24,7 @@ I'm a Cloud Engineer rounding up my studies at AltSchool Africa [School of Softw
 
 <div align="center">
   
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="60" width="90">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="60" width="60">
