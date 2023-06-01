@@ -76,7 +76,7 @@ I'm a Cloud Engineer rounding up my studies at AltSchool Africa [School of Softw
 <table align="center">
     <tr>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-        <td>-------------------------------------------------------------------------------------------------------</td>
+        <td>------------------------------------------------------------------------------------------------------</td>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
     </tr>
 </table>
