@@ -46,10 +46,10 @@ I'm a Cloud Engineer who graduated from AltSchool Africa [School of Software Eng
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="60" width="60">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/mysql.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="60" width="90">
+<!-- <img src="https://github.com/tuyojr/tuyojr/blob/main/images/JS.png?raw=true" height="60" width="60"> -->
+<!-- <img src="https://github.com/tuyojr/tuyojr/blob/main/images/vs.png?raw=true" height="60" width="90">
 <img src="https://github.com/tuyojr/tuyojr/blob/main/images/cSharp.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="60" width="60">
+<img src="https://github.com/tuyojr/tuyojr/blob/main/images/unity.png?raw=true" height="60" width="60"> -->
 
 
 </div>
