@@ -13,7 +13,7 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, and Thomas Shelby is my uncle.
 - 📚 I’m currently solidifying my knowledge around K8s, Prometheus, Grafana, and Jenkins for cloud engineering (to help me get better in every way) and also looking to learn Unity and C# for gaming 🎮 eventually.
 - 🤝🏽 I’m looking to contribute to open-source projects.
-- 💼 Interested in Cloud Developer/Cloud DevOps Engineer/Game Design roles (Intern or Junior(entry) level).
+- 💼 Interested in DevOps Engineer/Game Related roles (Junior(entry) level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![codw_wars_badge](https://www.codewars.com/users/tuyojr/badges/large)
