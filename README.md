@@ -72,7 +72,7 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 <table align="center">
     <tr>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
-        <td>-------------------------------------------------------------------------------------------------</td>
+        <td>--------------------------------------------------------------------------------------------------</td>
         <td><img src="https://github.com/tuyojr/tuyojr/blob/main/images/shisui.png?raw=true" height="40" width="40"></td>
     </tr>
 </table>
