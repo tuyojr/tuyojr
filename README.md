@@ -2,9 +2,25 @@
 
 [![](./images/header.jpg)](#)
 
-# Debug.Log("Hello there Fellow GAMER, Welcome!👋🏾");
+# Debug.Log("Hello there Fellow GAMER and Linux lover, Welcome!👋🏾");
 
-[![AltSchool](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering)  [![Linkedin](https://img.shields.io/badge/-olutuyo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adedolapo-o-968841b6)](https://www.linkedin.com/in/adedolapo-o-968841b6/) [![Twitter](https://img.shields.io/badge/-@tuyojjr-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tuyojjr)](https://twitter.com/tuyojjr)
+<a href="https://www.linkedin.com/in/adedolapo-o-968841b6/" target="_blank">
+  <img align="left" alt="Tuyo's LinkdeIn" width="24px" height="22px" src="https://github.com/Yash-Handa/Yash-Handa/blob/main/linkedin.gif" />
+</a>
+
+<a href="mailto: olutuyod@outlook.com" target="_blank">
+  <img align="left" alt="Tuyo's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
+</a>
+
+<a href="https://twitter.com/tuyojjr" target="_blank">
+  <img align="left" alt="Tuyo | Twitter" width="22px" height="22px" src="https://media.giphy.com/media/N7sG50flbD9pS/giphy.gif" />
+</a>
+
+<a href="https://t.me/tuyojr" target="_blank">
+  <img align="left" alt="Tuyo's Telegram" width="22px" height="20px" src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" />
+</a>
+
+<br />
 
 Passionate about providing invaluable cloud solutions where needed, connecting with other engineers, working on open-source projects, and video games.
 
@@ -13,7 +29,7 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, and Thomas Shelby is my uncle.
 - 📚 I’m currently solidifying my knowledge around K8s, Prometheus, Grafana, and Jenkins for cloud engineering (to help me get better in every way) and also looking to learn Unity and C# for gaming 🎮 eventually.
 - 🤝🏽 I’m looking to contribute to open-source projects.
-- 💼 Interested in DevOps Engineer/Game Related roles (Junior(entry) level).
+- 💼 Interested in Cloud/DevOps Engineer/Game Related roles (Junior(entry) level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![codw_wars_badge](https://www.codewars.com/users/tuyojr/badges/large)
@@ -22,33 +38,35 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 
 ## Languages and Tools
 
-<div align="center">
-  
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/linux.png?raw=true" height="60" width="90">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ubuntu.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/aws.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/ansible.png?raw=true" height="60" width="60">
-<img src="https://pngset.com/images/terraform-icon-label-text-solar-panels-electrical-device-transparent-png-818950.png" height="60" width="80">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/docker.webp?raw=true" height="60" width="80">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/k8s.png?raw=true" height="60" width="95">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/jenkins.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/gcp.png?raw=true" height="60" width="70">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/vsc.png?raw=true" height="60" width="60">
-
-<br>
-
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postman.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/travis.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/auth0.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/serverless.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/postgres.png?raw=true" height="60" width="60">
-<img src="https://github.com/tuyojr/tuyojr/blob/main/images/mysql.png?raw=true" height="60" width="60">
-
-
-</div>
+<p align="center">
+<img src="https://github.com/tuyojr/tuyojr/raw/main/images/kisspng-bash-shell-script-bourne-shell-scripting-language-create-and-delete-files-and-folders-in-bash-from-5b6ab0e6d589e2.2952756215337187588747.jpg?raw=true" alt="bash" title="bash" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=java" alt="java" title="java8" width="40" height="40"/>  
+<img src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="go" title="go" width="40" height="40"/> 
+<img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>
+<img src="https://github.com/tuyojr/tuyojr/raw/main/images/postman.png?raw=true" alt="postman" title="postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> 
+<img src="https://www.stagil.com/hubfs/bitbucket.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  
+<img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
+</p>
 
 ---
 [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
@@ -62,12 +80,6 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" />
 </div>
-
-<!-- <img src="https://komarev.com/ghpvc/?username=tuyojr&label=You're%20Visitor&color=0e75b6&style=flat" alt="tuyojr" /> & -->
-
-![](https://github-profile-trophy.vercel.app/?username=tuyojr&theme=tokyonight&layout=compact&hide_border=true&no-frame=true&no-bg=true)
-
-![Visitor Count](https://profile-counter.glitch.me/tuyojr/count.svg)
 
 <table align="center">
     <tr>
