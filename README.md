@@ -29,7 +29,7 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, and Thomas Shelby is my uncle.
 - 📚 I’m currently preparing to take my CKA exams.
 - 🤝🏽 I love open-source and I’m always looking to contribute to open-source projects.
-- 💼 Interested in Cloud/DevOps Engineer/Game Related roles (Junior(entry) level).
+- 💼 Interested in Cloud/DevOps Engineer/Game Related roles (Junior(entry)-Associate/Mid level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![codw_wars_badge](https://www.codewars.com/users/tuyojr/badges/large)
