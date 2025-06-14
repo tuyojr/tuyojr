@@ -27,9 +27,8 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 - 🥷🏽 He/Him
 - 🤪 Fun fact: I'm currently an amateur football player at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play central attacking midfield 🪄 ⚽🏃🏽‍♂️. I love video games 🎮 A LOT and I'll be working to create one soon. 
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, and Thomas Shelby is my uncle.
-- 📚 I’m currently preparing to take my CKA exams.
-- 🤝🏽 I love open-source and I’m always looking to contribute to open-source projects.
-- 💼 Interested in Cloud/DevOps Engineer/Game Related roles (Junior(entry)-Associate/Mid level).
+- 🤝🏽 I love open-source, and I’m always looking to contribute to open-source projects.
+- 💼 Interested in Cloud DevOps Engineer-related roles (Associate/Mid-level).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![codw_wars_badge](https://www.codewars.com/users/tuyojr/badges/large)
