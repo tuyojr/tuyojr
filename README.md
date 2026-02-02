@@ -24,11 +24,11 @@
 
 Passionate about providing invaluable cloud solutions where needed, connecting with other engineers, working on open-source projects, and video games.
 
-- 🥷🏽 He/Him
+- 🥷🏽 He/Him/His
+- 🤝🏽 I love open-source.
 - 🤪 Fun fact: I'm currently an amateur football player at [Ablaze Football Academy](https://www.instagram.com/fc_ablaze/). I play central attacking midfield 🪄 ⚽🏃🏽‍♂️. I love video games 🎮 A LOT and I'll be working to create one soon. 
 - 😎🌚 Another Fun fact: Shisui Uchiha is one of my brothers, and Thomas Shelby is my uncle.
-- 🤝🏽 I love open-source, and I’m always looking to contribute to open-source projects.
-- 💼 Interested in Cloud DevOps Engineer-related roles (Associate/Mid-level).
+- 💼 Interested in Cloud / DevOps / Engineer-related roles (Mid-level/Senior).
 - 📫 You can [view my resume](https://drive.google.com/file/d/1rsZABQLvKQnwQql7JKx-4Plo_Hsbs027/view?usp=sharing) and also contact me by emailing olutuyod@outlook.com.
 
 ![codw_wars_badge](https://www.codewars.com/users/tuyojr/badges/large)
@@ -70,14 +70,16 @@ Passionate about providing invaluable cloud solutions where needed, connecting w
 
 ---
 [![wakatime](https://wakatime.com/badge/user/777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c.svg)](https://wakatime.com/@777c2ffe-7c15-42f7-a2bc-1ee4a7e9091c)
-<table>
-    <tr>
-        <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=tuyojr&&theme=tokyonight&show_icons=true&include_all_commits=true&hide_border=true" alt="Tuyo's GitHub stats" /></td>
-        <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tuyojr&theme=tokyonight&layout=compact&hide_border=true" /></td>
-    </tr>
-</table>
 
-<div align="center">
+![Visitor Count](https://komarev.com/ghpvc/?username=tuyojr)
+
+<!-- <table>
+    <tr>
+        <td></td>
+    </tr>
+</table> -->
+
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuyojr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Tuyo's GitHub stats" />
 </div>
 
